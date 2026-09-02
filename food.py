@@ -1,6 +1,6 @@
 from turtle import Turtle
 import random
-
+# colors
 colors = ["green", "blue", "purple", "pink", "yellow"]
 
 
